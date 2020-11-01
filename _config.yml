@@ -1,0 +1,17 @@
+# Site settings
+title: The Golden Pocket 
+email: thegoldenpocket@protonmail.ch
+description: The Golden Pocket
+baseurl: ""
+url: "http://thegoldenpocket.github.io"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
